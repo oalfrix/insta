@@ -98,7 +98,7 @@ body {
 
 .btn2 {
     width: 80%;
-    height: 20px;
+    height: 22px;
     background-color: #3897f0;
     border: 1px solid #3897f0;
     padding: 5px 12px;
@@ -134,4 +134,16 @@ body {
     word-spacing: -3px;
     letter-spacing: -2px;
     font-weight: normal;
+}
+
+
+@media screen and (max-width: 768px) {
+    #wrapper {
+        width: 350px;
+        height: 50%;
+        overflow: hidden;
+        border: 0px solid #000;
+        margin: 50px auto;
+        padding: 10px;
+    }   
 }
